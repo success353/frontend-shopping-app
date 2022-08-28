@@ -1,0 +1,35 @@
+.Home {
+    background-image: url('https://cdn.shopify.com/s/files/1/0498/8764/1749/files/4_1400x.jpg?v=1616778778');
+    height: 93vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.Hero-text {
+    position: absolute;
+    bottom: 70px;
+    right: 50px;
+    text-align: right;
+    padding-bottom: 20px;
+}
+
+.Hero-text h2 {
+    letter-spacing: 3px;
+}
+
+.Hero-text p {
+    font-size: 14px;
+    color: #0B3E64;
+    font-weight: 500;
+}
+
+.Hero-text button {
+    background: #0B3E64;
+    padding: 13px 20px;
+    font-weight: 500;
+    border: 1px solid #0B3E64;
+    color: #f9f9f9;
+    letter-spacing: 2px;
+    cursor: pointer;
+}

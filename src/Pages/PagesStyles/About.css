@@ -1,0 +1,88 @@
+.About h3 {
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 70px;
+    color: #0B3E64;
+}
+
+.story-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 150px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.story-flex img {
+    margin-right: 30px;
+}
+
+.story-text {
+    margin-left: 30px;
+    align-items: left;
+}
+
+.story-flex .story-text h4 {
+    color: #0B3E64;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.story-flex .story-text p {
+    font-size: 14px;
+    word-spacing: 2px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.founders-div {
+    margin-right: 280px;
+    margin-left: 280px;
+}
+
+.founders-text {
+    margin-top: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    word-spacing: 0.5px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.founders-div img {
+    background-size: cover;
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+
+.founders-text-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.first {
+    margin-right: 10px;
+}
+
+.second {
+    margin-left: 10px;
+}
+
+.founders-line {
+    margin-bottom: 50px;
+}
+
+.final-text {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    color: #0B3E64;
+    margin-bottom: 90px;
+}
