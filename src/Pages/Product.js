@@ -17,7 +17,7 @@ const Products = () => {
       })
       .then((data) => {
         setProducts(data);
-      });
+      }, []);
   });
   return (
     <>

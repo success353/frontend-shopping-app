@@ -17,7 +17,7 @@ const ProductDetails = () => {
       })
       .then((data) => {
         setProduct(data);
-      });
+      }, []);
   });
   return (
     <div className="product-details">
